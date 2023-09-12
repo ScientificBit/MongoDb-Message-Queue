@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScientificBit.MongoDbMQ", "ScientificBit.MongoDbMQ\ScientificBit.MongoDbMQ.csproj", "{C30A8922-5F63-47FC-82D5-A10B5B0AA6D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScientificBit.MongoDbMQPublisherTest", "ScientificBit.MongoDbMQPublisherTest\ScientificBit.MongoDbMQPublisherTest.csproj", "{60FDA1DF-1313-4A61-9E1E-5EF337A3391A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScientificBit.MongoDbMQConsumersTest", "ScientificBit.MongoDbMQConsumersTest\ScientificBit.MongoDbMQConsumersTest.csproj", "{421E36B6-B379-43B5-AA3C-0F1838AD817E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C30A8922-5F63-47FC-82D5-A10B5B0AA6D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C30A8922-5F63-47FC-82D5-A10B5B0AA6D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C30A8922-5F63-47FC-82D5-A10B5B0AA6D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C30A8922-5F63-47FC-82D5-A10B5B0AA6D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60FDA1DF-1313-4A61-9E1E-5EF337A3391A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60FDA1DF-1313-4A61-9E1E-5EF337A3391A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60FDA1DF-1313-4A61-9E1E-5EF337A3391A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60FDA1DF-1313-4A61-9E1E-5EF337A3391A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{421E36B6-B379-43B5-AA3C-0F1838AD817E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421E36B6-B379-43B5-AA3C-0F1838AD817E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421E36B6-B379-43B5-AA3C-0F1838AD817E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421E36B6-B379-43B5-AA3C-0F1838AD817E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
