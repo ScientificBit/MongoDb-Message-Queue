@@ -80,3 +80,6 @@ TBD
 # Documentation
 
 TBD
+
+# About Scientific Bit
+Please visit https://www.scientificbit.com
